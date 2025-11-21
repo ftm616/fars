@@ -16,14 +16,6 @@ User-friendly layout with simple, clear UI
 
 Supports Persian text (Unicode-safe)
 
-🗂️ Main Sections
-تاریخی (Historical): تخت‌جمشید، پاسارگاد، ارگ کریم‌خان
-
-طبیعت (Nature): دریاچه مهارلو، قلات، تنگ رغز
-
-مذهبی (Religious): شاهچراغ، مسجد نصیرالملک
-
-فرهنگی–هنری (Cultural): باغ ارم، حافظیه، سعدیه
 
 🚀 How It Works
 
